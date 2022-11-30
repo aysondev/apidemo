@@ -39,7 +39,7 @@ NORMAL:正常状态, LIQUIDATING：清算, LIQUIDATION_FAILED：清算失败
 
 tradeType: 
 [1, 2, 3 ]
-[OPEN:开仓, CLOSE:关仓, NET:对冲]
+[OPEN:开仓, CLOSE:关仓, NET:单仓模式,只有买卖没有开平.]
 ```
 
 
